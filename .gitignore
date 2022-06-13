@@ -1,0 +1,9 @@
+# virtual environment
+venv*
+.env
+
+# logs
+geckodriver.log
+
+# project local files
+last_uid
