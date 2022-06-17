@@ -1,6 +1,7 @@
 # virtual environment
 venv*
 .env
+config.py
 
 # logs
 geckodriver.log

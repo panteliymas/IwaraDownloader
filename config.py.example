@@ -1,0 +1,4 @@
+IWARA_SAVE_DIR_DEFAULT="./saves/"
+MAIN_DOMAIN_IWARA="https://ecchi.iwara.tv/videos/"
+TIMEOUT=30
+DEFAULT_LANG="en"
