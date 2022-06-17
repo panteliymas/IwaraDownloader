@@ -8,3 +8,6 @@ geckodriver.log
 
 # project local files
 last_uid
+
+# cached
+__pycache__*
