@@ -1,6 +1,6 @@
 **Downloader for ecchi.iwara.tv**
 
-COMMAND: iwara [option] [value]
+COMMAND: python3 main.py [option] [value]
 
 OPTIONS:
 * --url                  - get a video by url
