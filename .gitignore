@@ -5,9 +5,13 @@ config.py
 
 # logs
 geckodriver.log
+IwaraDownloader.log
 
 # project local files
 last_uid
 
 # cached
 __pycache__*
+
+# saves
+saves*
