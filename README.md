@@ -12,5 +12,5 @@ OPTIONS:
 <p>                         VALUES: author, day, fulldate</p>
 <p>--all                  - download with no looking at UID of last saved video from the last time you downloaded **all** videos</p>
 -->
-* a
-* b
+- a
+- b
