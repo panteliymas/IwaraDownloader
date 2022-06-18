@@ -4,7 +4,7 @@ COMMAND: python3 main.py [option] [value]
 
 OPTIONS:
 * --url                      - get a video by url
-* --uid                      - get a video by uid ([_ecchi.iwara.tv/videos/_](https://ecchi.iwara.tv/videos/)**UID**)
+* --uid                      - get a video by uid ([ecchi.iwara.tv/videos/](https://ecchi.iwara.tv/videos/)**UID**)
 * --saveDir DIRECTORY        - change default save directory for session to DIRECTORY
 * --save-dir-force DIRECTORY - change default save directory for session to DIRECTORY and creating them if they doesn't exist
 * --groupBy                  - group downloaded videos by *value*
