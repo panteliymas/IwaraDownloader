@@ -4,7 +4,7 @@ COMMAND: iwara [option] [value]
 
 OPTIONS:
 * --url                  - get a video by url
-* --uid                  - get a video by uid (*iwara.site/videos/***uid**)
+* --uid                  - get a video by uid (_iwara.site/videos/_**uid**)
 * --saveDir VALUE        - change default save directory for session to VALUE
 * --save-dir-force VALUE - change default save directory for session to VALUE and creating them if they doesn't exist
 * --timeOut              - set how long it is needed to wait for loading pages
